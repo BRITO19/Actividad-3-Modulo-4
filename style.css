@@ -1,0 +1,55 @@
+
+.titulo1 {
+    color: rgb(14, 116, 199);
+    text-align: center;
+}
+#preguntas{
+    
+   font-weight: bold;
+   font-size: x-large;
+   color: #000000;
+}
+
+#lista{
+    font-weight: bold;
+}
+
+#p{
+ font-size:x-large;
+ color: #000000;
+}
+
+#footer{
+    text-align: center;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none; /* Importante para los enlaces */
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.btn:hover {
+    background-color: #c4c4c4;
+}
+
+.btn:active {
+    transform: scale(0.95);}
+
+body{
+    background-color:rgb(244, 246, 248);
+    background-image: url(analisis\ sistemas.jpg);
+    background-size:cover;
+    background-repeat:no repeat;
+  
+
+    
+}
